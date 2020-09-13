@@ -2,7 +2,7 @@
 An analysis on NY Citi Bike data from August 2018 and case for investment in Des Moines Bike. 
 
 ## Dashboard Presentation
-Please find the accompanying dashboard presentation at [link to dashboard](https://public.tableau.com/profile/catherine.aznoe#!/vizhome/Bikesharing_15996811561570/Bikesharing?publish=yes)
+Please find the accompanying dashboard presentation at [Tableau Public Site](https://public.tableau.com/profile/catherine.aznoe#!/vizhome/Bikesharing_15996811561570/Bikesharing?publish=yes)
 
 ## Evaluation of NYC Citi Bike
 NYC Citi Bike is operating a robust business with over 2.3 million bike rentals in a given good weather month. The popularity rises with users born after the mid 1990s with their average trip duration greatly increasing. This is a trend we expect to be similar for Des Moines Bike. 
