@@ -26,10 +26,10 @@ Other further items for discussion include evaluation on the differences between
 
 ### Sample Dashboard
 Tableau Worksheet 1
-![Tableau1](/images/tableau1.png)
+![Tableau1](/Images/tableau1.png)
 
 Tableau Worksheet 2
-![Tableau2](/images/tableau2.png)
+![Tableau2](/Images/tableau2.png)
 
 ### Sources used in evaluation 
 City of Des Moines Comprehensive Plan, Adopted April 2016. 2016, cms2.revize.com/revize/desmoines/document_center/Development%20Services/Planning%20and%20Urban%20Design/PlanDSMAdopted20160425.pdf?pdf=Plan%20DSM%20-%20Creating%20Our%20Tomorrow%20Land%20Use%20Plan&amp;t=1599138906558&amp;pdf=Plan%20DSM%20-%20Creating%20Our%20Tomorrow%20Land%20Use%20Plan&amp;t=1599138906558. 
